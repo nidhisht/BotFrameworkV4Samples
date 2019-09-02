@@ -1,3 +1,2 @@
 # Documentation
-## Steps to deploy Echo bot on azure
-[Sites Using React](https://github.com/facebook/react/wiki/Sites-Using-React)
+[Steps to deploy Echo bot on azure](https://github.com/nidhisht/BotFrameworkV4Samples/wiki/Steps:-Deploy-Echo-Bot-on-Azure)
