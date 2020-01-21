@@ -4,7 +4,7 @@ Refer [wiki](https://github.com/nidhisht/BotFrameworkV4Samples/wiki/Steps:-Deplo
 # Chatbot Architecture
 <img width="500" alt="Common Bot Architecture" src="https://user-images.githubusercontent.com/42999787/72779441-f6d64600-3c41-11ea-9075-e13c24e9fc84.png">
 
-This chatbot is designed as cloud native application. Chatbot components are deployed on Azure PaaS. Microsoft cognitive services are used for giving intelligence to the chatbot.
+This chatbot is designed as cloud native application. All the components are deployed on Azure PaaS. Microsoft cognitive services are used for giving intelligence to the chatbot.
 
 
 # Bot Flow
